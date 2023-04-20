@@ -1,0 +1,8 @@
+WIDTH = 950
+HEIGHT = 700
+MARGIN = 30
+
+FONT_NAME = "Black Ops One"
+
+
+__all__ = ["WIDTH", "HEIGHT", "FONT_NAME", "MARGIN"]
